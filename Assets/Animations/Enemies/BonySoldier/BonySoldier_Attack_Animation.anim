@@ -6,7 +6,7 @@ AnimationClip:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Walk_Down
+  m_Name: BonySoldier_Attack_Animation
   serializedVersion: 6
   m_Legacy: 0
   m_Compressed: 0
@@ -20,15 +20,13 @@ AnimationClip:
   m_PPtrCurves:
   - curve:
     - time: 0
-      value: {fileID: -597863627, guid: 290c979c55b3e8a4fa4d42b7bc7b53c0, type: 3}
-    - time: 0.15
-      value: {fileID: -664503896, guid: 290c979c55b3e8a4fa4d42b7bc7b53c0, type: 3}
-    - time: 0.3
-      value: {fileID: -419117918, guid: 290c979c55b3e8a4fa4d42b7bc7b53c0, type: 3}
-    - time: 0.43333334
-      value: {fileID: 768494128, guid: 290c979c55b3e8a4fa4d42b7bc7b53c0, type: 3}
+      value: {fileID: -1605500478, guid: f57d41d06fb3d4f4caf9e2da769e7a3e, type: 3}
+    - time: 0.2
+      value: {fileID: 2034310271, guid: f57d41d06fb3d4f4caf9e2da769e7a3e, type: 3}
+    - time: 0.38333333
+      value: {fileID: 1405370750, guid: f57d41d06fb3d4f4caf9e2da769e7a3e, type: 3}
     - time: 0.5833333
-      value: {fileID: 768494128, guid: 290c979c55b3e8a4fa4d42b7bc7b53c0, type: 3}
+      value: {fileID: -1269843622, guid: f57d41d06fb3d4f4caf9e2da769e7a3e, type: 3}
     attribute: m_Sprite
     path: 
     classID: 212
@@ -48,11 +46,10 @@ AnimationClip:
       customType: 23
       isPPtrCurve: 1
     pptrCurveMapping:
-    - {fileID: -597863627, guid: 290c979c55b3e8a4fa4d42b7bc7b53c0, type: 3}
-    - {fileID: -664503896, guid: 290c979c55b3e8a4fa4d42b7bc7b53c0, type: 3}
-    - {fileID: -419117918, guid: 290c979c55b3e8a4fa4d42b7bc7b53c0, type: 3}
-    - {fileID: 768494128, guid: 290c979c55b3e8a4fa4d42b7bc7b53c0, type: 3}
-    - {fileID: 768494128, guid: 290c979c55b3e8a4fa4d42b7bc7b53c0, type: 3}
+    - {fileID: -1605500478, guid: f57d41d06fb3d4f4caf9e2da769e7a3e, type: 3}
+    - {fileID: 2034310271, guid: f57d41d06fb3d4f4caf9e2da769e7a3e, type: 3}
+    - {fileID: 1405370750, guid: f57d41d06fb3d4f4caf9e2da769e7a3e, type: 3}
+    - {fileID: -1269843622, guid: f57d41d06fb3d4f4caf9e2da769e7a3e, type: 3}
   m_AnimationClipSettings:
     serializedVersion: 2
     m_AdditiveReferencePoseClip: {fileID: 0}
